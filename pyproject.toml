@@ -1,6 +1,6 @@
 [project]
 name = "ngstents"
-dynamic = ["dependencies", "version"]
+dynamic = ["version"]
 authors = [{name="Jay Gopalakrishnan", email= "gjay@pdx.edu"}]
 description = "Spacetime tent facilities for solving hyperbolic equations"
 urls = {github="https://github.com/jayggg/ngstents"}
