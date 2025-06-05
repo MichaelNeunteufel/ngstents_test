@@ -13,7 +13,7 @@ classifiers = [
 
 [build-system]
 requires = [
-  "ngsolve>=6.2.2502", 
+  "ngsolve>=6.2.2406", 
   "matplotlib", 
   "setuptools>=45", 
   "setuptools_scm[toml]>=8", 
